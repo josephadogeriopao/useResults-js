@@ -1,0 +1,38 @@
+{
+  "name": "@josephadogeridev/use-results-js",
+  "version": "1.0.0",
+  "description": "Custom react  hook with api function to fetch data abstracting axios configuration",
+  "main": "index.js",
+    "publishConfig": {
+    "access": "public"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jadogeri/useResults-js.git"
+  },
+  "keywords": [
+    "@josephadogeridev/use-results-js",
+    "hook",
+    "useResults",
+    "react",
+    "react-native",
+    "electron",
+    "reactjs",
+    "electronjs",
+    "@josephadogeridev"
+  ],
+  "author": "Joseph Adogeri",
+  "license": "MIT",
+    "moduleDirectories": [
+    "node_modules",
+    "src"
+  ],
+  "bugs": {
+    "url": "https://github.com/jadogeri/useResults-js/issues"
+  },
+  "homepage": "https://github.com/jadogeri/useResults-js#readme"
+}
