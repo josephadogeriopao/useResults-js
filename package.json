@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Custom react  hook with api function to fetch data abstracting axios configuration",
   "main": "index.js",
-    "publishConfig": {
+  "publishConfig": {
     "access": "public"
   },
   "type": "module",
@@ -27,12 +27,15 @@
   ],
   "author": "Joseph Adogeri",
   "license": "MIT",
-    "moduleDirectories": [
+  "moduleDirectories": [
     "node_modules",
     "src"
   ],
   "bugs": {
     "url": "https://github.com/jadogeri/useResults-js/issues"
   },
-  "homepage": "https://github.com/jadogeri/useResults-js#readme"
+  "homepage": "https://github.com/jadogeri/useResults-js#readme",
+  "dependencies": {
+    "axios": "^1.9.0"
+  }
 }
